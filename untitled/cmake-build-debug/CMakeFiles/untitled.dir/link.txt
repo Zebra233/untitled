@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/untitled.dir/src/Edge.cpp.o CMakeFiles/untitled.dir/src/Cloud.cpp.o CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/test.cpp.o -o untitled 
